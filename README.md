@@ -10,6 +10,6 @@
 
 ## Other Info
 
-- The repo contains a screenshot of the dashboard and the tableau file.
+- The repo contains a screenshot of the dashboard, the data set and the tableau file.
 - The link for the dashboard in Tableau Public: https://shorturl.at/lAC89
 - The link of the dataset: https://www.kaggle.com/datasets/imtkaggleteam/co-and-greenhouse-gas-emissions?select=3-+co-emissions-per-capita.csv
